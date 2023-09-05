@@ -1,10 +1,10 @@
 ﻿# CDIF Design Principles
 
-smr, plb   2023-05-20
-Update based on comments and discussion SMR 2023-06-13
-Version shared with AG 2023-06-16
-Simon Cox edits accepted 2023-09-05
-Markdown generated from Google document draft. This version supersedes the Google document
+* smr, plb   2023-05-20
+* Update based on comments and discussion SMR 2023-06-13
+* Version shared with AG 2023-06-16
+* Simon Cox edits accepted 2023-09-05
+* Markdown generated from Google document draft. This version supersedes the Google document
 
 The Cross Domain Interoperability Framework is based on a set of concrete, implementation-level principles intended to enhance any community’s data management approaches and reduce the barriers to reusing data across domains.  These principles will guide the selection of CDIF recommended standards and approaches intended to inform project-level planning and to provide practitioners with clarity regarding the work involved and the skills, personnel, and technology required.  The guidance offered by these principles should not be read as absolute requirements; they define aspirations that should be pursued as far as feasible.
 In the discussion that follows we will use the term ‘data’ for any structured information representation<a name="linka"/>[(comment below)](#comment-abcdef) that is intended for use by computer information systems.  This includes both direct observational or model data and data describing other data, commonly differentiated as metadata, but subject to the same principles.
